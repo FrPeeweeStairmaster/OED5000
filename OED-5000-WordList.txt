@@ -2,7 +2,6 @@
 ability
 able
 abolish
-abortion
 about
 above
 abroad
@@ -104,7 +103,6 @@ advice
 advise
 advocate
 aesthetic
-affair
 affect
 affection
 afford
@@ -140,8 +138,6 @@ airport
 alarm
 albeit
 album
-alcohol
-alcoholic
 alert
 alien
 align
@@ -413,8 +409,6 @@ beautiful
 beauty
 because
 become
-bed
-bedroom
 bee
 beef
 beer
@@ -521,7 +515,6 @@ bow
 bowl
 box
 boy
-boyfriend
 brain
 branch
 brand
@@ -571,7 +564,6 @@ bureaucracy
 burial
 burn
 burst
-bury
 bus
 bush
 business
@@ -598,10 +590,8 @@ campaign
 camping
 campus
 can
-can
 canal
 cancel
-cancer
 candidate
 candle
 cannot
@@ -821,7 +811,6 @@ common
 commonly
 communicate
 communication
-communist
 community
 companion
 company
@@ -1010,7 +999,6 @@ correspondence
 correspondent
 corresponding
 corridor
-corrupt
 corruption
 cost
 costly
@@ -1131,7 +1119,6 @@ deadly
 deal
 dealer
 dear
-death
 debate
 debris
 debt
@@ -1185,7 +1172,6 @@ delivery
 demand
 democracy
 democratic
-demon
 demonstrate
 demonstration
 denial
@@ -1204,9 +1190,6 @@ depict
 deploy
 deployment
 deposit
-depressed
-depressing
-depression
 deprive
 depth
 deputy
@@ -1246,7 +1229,6 @@ devastate
 develop
 development
 device
-devil
 devise
 devote
 diagnose
@@ -1258,7 +1240,6 @@ diary
 dictate
 dictator
 dictionary
-die
 diet
 differ
 difference
@@ -1282,10 +1263,6 @@ direction
 directly
 director
 directory
-dirt
-dirty
-disability
-disabled
 disadvantage
 disagree
 disagreement
@@ -1347,8 +1324,6 @@ divert
 divide
 divine
 division
-divorce
-divorced
 do
 doctor
 doctrine
@@ -1567,7 +1542,6 @@ equip
 equipment
 equivalent
 era
-erect
 error
 erupt
 escalate
@@ -1602,7 +1576,6 @@ everything
 everywhere
 evidence
 evident
-evil
 evoke
 evolution
 evolutionary
@@ -1931,7 +1904,6 @@ gas
 gate
 gather
 gathering
-gay
 gaze
 gear
 gender
@@ -1958,7 +1930,6 @@ giant
 gift
 gig
 girl
-girlfriend
 give
 glad
 glance
@@ -2090,7 +2061,6 @@ heel
 height
 heighten
 helicopter
-hell
 hello
 helmet
 help
@@ -2145,7 +2115,6 @@ hope
 hopeful
 hopefully
 horizon
-horn
 horrible
 horror
 horse
@@ -2378,7 +2347,6 @@ interval
 intervene
 intervention
 interview
-intimate
 into
 intriguing
 introduce
@@ -2454,13 +2422,10 @@ kick
 kid
 kidnap
 kidney
-kill
-killing
 kilometre
 kind
 king
 kingdom
-kiss
 kit
 kitchen
 knee
@@ -2539,7 +2504,6 @@ lend
 length
 lengthy
 lens
-lesbian
 less
 lesser
 lesson
@@ -2588,7 +2552,6 @@ literature
 litre
 litter
 little
-live
 live
 lively
 liver
@@ -2825,7 +2788,6 @@ more
 moreover
 morning
 mortgage
-mosque
 most
 mostly
 mother
@@ -2850,7 +2812,6 @@ multiple
 multiply
 mum
 municipal
-murder
 muscle
 museum
 music
@@ -2864,7 +2825,6 @@ mysterious
 mystery
 myth
 nail
-naked
 name
 namely
 narrative
@@ -2962,8 +2922,6 @@ nursery
 nursing
 nut
 nutrition
-oâ€™clock
-obesity
 obey
 object
 objection
@@ -3325,8 +3283,6 @@ prediction
 predominantly
 prefer
 preference
-pregnancy
-pregnant
 prejudice
 preliminary
 premier
@@ -3363,7 +3319,6 @@ previously
 prey
 price
 pride
-priest
 primarily
 primary
 prime
@@ -3504,11 +3459,7 @@ quite
 quota
 quotation
 quote
-race
-racial
 racing
-racism
-racist
 radar
 radiation
 radical
@@ -3635,8 +3586,6 @@ reliable
 relief
 relieve
 relieved
-religion
-religious
 reluctant
 rely
 remain
@@ -3671,7 +3620,6 @@ represent
 representation
 representative
 reproduce
-reproduction
 republic
 reputation
 request
@@ -3743,7 +3691,6 @@ ridiculous
 rifle
 right
 ring
-ring
 riot
 rip
 rise
@@ -3779,9 +3726,7 @@ routine
 row
 royal
 rub
-rubber
 rubbish
-rude
 rugby
 ruin
 rule
@@ -3943,8 +3888,6 @@ shock
 shocked
 shocking
 shoe
-shoot
-shooting
 shop
 shopping
 shore
@@ -3985,7 +3928,6 @@ simply
 simulate
 simulation
 simultaneously
-sin
 since
 sincere
 sing
@@ -4010,14 +3952,11 @@ skill
 skilled
 skin
 skip
-skirt
 skull
 sky
 slam
 slap
 slash
-slave
-slavery
 sleep
 slice
 slide
@@ -4268,7 +4207,6 @@ sufficiently
 sugar
 suggest
 suggestion
-suicide
 suit
 suitable
 suite
@@ -4402,9 +4340,6 @@ terribly
 terrific
 terrify
 territory
-terror
-terrorism
-terrorist
 test
 testify
 testimony
@@ -4491,7 +4426,6 @@ tobacco
 today
 toe
 together
-toilet
 tolerance
 tolerate
 toll
@@ -4675,8 +4609,6 @@ us
 usage
 use
 used
-used
-used
 useful
 useless
 user
@@ -4730,10 +4662,6 @@ viewer
 viewpoint
 village
 villager
-violate
-violation
-violence
-violent
 virtual
 virtue
 virus
@@ -4822,7 +4750,6 @@ whether
 which
 while
 whilst
-whip
 whisper
 white
 who
@@ -4845,7 +4772,6 @@ will
 willing
 willingness
 win
-wind
 wind
 window
 wine
